@@ -6,6 +6,9 @@ https://github.com/sreedhar-ch/movie-plays-producer/
 https://github.com/sreedhar-ch/movie-plays-consumer
 
 In intellij terminal window, use the command "./mvnw compile quarkus:dev" to start the application
+
+![image](https://user-images.githubusercontent.com/107021268/202695031-7e5e4cba-d05a-47da-975b-8dc19c389a10.png)
+
 ============================================================================================================
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
