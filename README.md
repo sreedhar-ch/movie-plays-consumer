@@ -49,4 +49,3 @@ If you want to learn more about building native executables, please consult http
 
 ## Related Guides
 
-![image](https://user-images.githubusercontent.com/107021268/202673712-1568f43b-4592-4608-b3d1-2e2ead5d0245.png)
